@@ -4,6 +4,7 @@ def main():
     print('Again')
     print('UFO came and added this line')
     print('lol')
+    print('lol2')
 
 
 if __name__ == '__main__':
